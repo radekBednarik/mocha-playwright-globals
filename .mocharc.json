@@ -1,0 +1,6 @@
+{
+  "require": "./test/hooks",
+  "timeout": 30000,
+  "slow": 30000,
+  "reporter": "spec"
+}
